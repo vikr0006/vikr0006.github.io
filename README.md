@@ -8,6 +8,6 @@ I found very few challenges like creating the animation for "Gallery"
 I tried few different methods and finally using "keyframes" worked
 
 Another challenge I faced was creating the animation for all descriptions
-It took me a while to figure out the proper code using for loops
+It took me a while to figure out the proper code using for loops.
 
 -->
